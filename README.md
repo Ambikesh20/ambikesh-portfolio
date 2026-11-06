@@ -47,9 +47,9 @@ Explore my portfolio to discover projects related to web development, programmin
 
 ## 📬 Contact
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **LinkedIn:** ADD_YOUR_LINKEDIN_URL
-- **Email:** ADD_YOUR_EMAIL
+- **GitHub:** https://github.com/ambikesh20
+- **LinkedIn:**[(https://github.com/Ambikesh20)]
+- **Email:** ambikeshraj63@gmail.com
 
 ## 📄 License
 
