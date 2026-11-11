@@ -122,17 +122,17 @@ const SITE_CONFIG = {
       issuer: "NIELIT Buxar",
       date: "10 July 2025",
       id: "NIELIT/BUX/CS-4/062025/001",
-      verify: "ADD_VERIFICATION_URL",
+      verify: "https://certificate.nielit.gov.in/",
       file: "https://drive.google.com/drive/u/0/folders/1Z17p4V8k1GWjFPwif8_6dOdA2mQnNH7b",
       icon: "https://ibb.co/cKH6fQSC"
     },
     {
       title: "Shell Skills4Future Internship – Green Skills & AI",
       issuer: "AICTE – Edunet Foundation",
-      date: "ADD_ISSUE_DATE",
-      id: "ADD_CERTIFICATE_ID",
-      verify: "ADD_VERIFICATION_URL",
-      file: "ADD_CERTIFICATE_FILE",
+      date: "16 July 2025",
+      id: "STU681393d579eaf1746113493",
+      verify: "https://nextgen.edunetworld.com/verify-certificate",
+      file: "https://drive.google.com/drive/u/0/folders/1WYxOIYoceup4ZEaY6zCvaj0N3WV7EDIc",
       icon: "bi-leaf"
     },
     {
