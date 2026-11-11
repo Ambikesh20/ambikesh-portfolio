@@ -34,7 +34,7 @@ const SITE_CONFIG = {
       github: "ADD_GITHUB_URL",
       demo: "ADD_LIVE_DEMO_URL"
     },
-     {
+    {
       key: "instagramDownloader",
       title: "Instagram Reels Downloader",
       description: "A web application for downloading publicly accessible Instagram Reels through a third-party API integration.",
@@ -45,7 +45,7 @@ const SITE_CONFIG = {
       github: "ADD_GITHUB_URL",
       demo: "ADD_LIVE_DEMO_URL"
     },
-     {
+    {
       key: "ambiAIChat",
       title: "Ambi AI Chat",
       description: "An AI-powered conversational application concept designed to provide an interactive chat experience.",
@@ -63,7 +63,7 @@ const SITE_CONFIG = {
       category: "AI / Web Development",
       filter: "ai",
       image: "assets/images/bgremover.jpg",
-      tech: ["AI", "Web Development","API Integration","Python"],
+      tech: ["AI", "Web Development", "API Integration", "Python"],
       github: "ADD_GITHUB_URL",
       demo: "ADD_LIVE_DEMO_URL"
     },
@@ -104,17 +104,16 @@ const SITE_CONFIG = {
       github: "https://github.com/Ambikesh20/Cyber-Security-Internship-at-NIELIT-Buxar"
     },
     {
-  organization: "Edunet Foundation – AICTE Shell Skills4Future Internship",
-  domain: "Artificial Intelligence & Data Analytics",
-  duration: " 4-week(16 June 2025 – 16 July 2025",
-  mode: "Online (Virtual / Remote)",
-  project: "Garbage Classification",
-  description: "Completed a 4-week internship focused on Artificial Intelligence and Data Analytics, with an emphasis on Green Skills under the AICTE, Shell & Edunet initiative.",
-  certificate: "https://drive.google.com/drive/u/0/folders/1WYxOIYoceup4ZEaY6zCvaj0N3WV7EDIc",
-  website: "https://edunetfoundation.org/",
-  github: "ADD_GITHUB_URL"
-
-  },
+      organization: "Edunet Foundation – AICTE Shell Skills4Future Internship",
+      domain: "Artificial Intelligence & Data Analytics",
+      duration: " 4-week(16 June 2025 – 16 July 2025",
+      mode: "Online (Virtual / Remote)",
+      project: "Garbage Classification",
+      description: "Completed a 4-week internship focused on Artificial Intelligence and Data Analytics, with an emphasis on Green Skills under the AICTE, Shell & Edunet initiative.",
+      certificate: "https://drive.google.com/drive/u/0/folders/1WYxOIYoceup4ZEaY6zCvaj0N3WV7EDIc",
+      website: "https://edunetfoundation.org/",
+      github: "https://github.com/Ambikesh20/garbage-classification-project-week2"
+    },
   ],
 
   certificates: [
@@ -136,7 +135,7 @@ const SITE_CONFIG = {
       file: "ADD_CERTIFICATE_FILE",
       icon: "bi-shield-lock"
     },
-     {
+    {
       title: "Cyber Security Internship",
       issuer: "NIELIT Buxar",
       date: "June – July 2025",
@@ -145,7 +144,7 @@ const SITE_CONFIG = {
       file: "ADD_CERTIFICATE_FILE",
       icon: "bi-shield-lock"
     },
-     {
+    {
       title: "Cyber Security Internship",
       issuer: "NIELIT Buxar",
       date: "June – July 2025",
