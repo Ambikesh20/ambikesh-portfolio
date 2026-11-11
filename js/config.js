@@ -135,23 +135,23 @@ const SITE_CONFIG = {
       file: "https://drive.google.com/drive/u/0/folders/1WYxOIYoceup4ZEaY6zCvaj0N3WV7EDIc",
       icon: "bi-leaf"
     },
-    {
-      title: "Cyber Security Internship",
-      issuer: "NIELIT Buxar",
-      date: "June – July 2025",
-      id: "ADD_CERTIFICATE_ID",
-      verify: "ADD_VERIFICATION_URL",
-      file: "ADD_CERTIFICATE_FILE",
-      icon: "bi-shield-lock"
-    },
-    {
-      title: "Cyber Security Internship",
-      issuer: "NIELIT Buxar",
-      date: "June – July 2025",
-      id: "ADD_CERTIFICATE_ID",
-      verify: "ADD_VERIFICATION_URL",
-      file: "ADD_CERTIFICATE_FILE",
-      icon: "bi-shield-lock"
-    }
+    // {
+    //   title: "Cyber Security Internship",
+    //   issuer: "NIELIT Buxar",
+    //   date: "June – July 2025",
+    //   id: "ADD_CERTIFICATE_ID",
+    //   verify: "ADD_VERIFICATION_URL",
+    //   file: "ADD_CERTIFICATE_FILE",
+    //   icon: "bi-shield-lock"
+    // },
+    // {
+    //   title: "Cyber Security Internship",
+    //   issuer: "NIELIT Buxar",
+    //   date: "June – July 2025",
+    //   id: "ADD_CERTIFICATE_ID",
+    //   verify: "ADD_VERIFICATION_URL",
+    //   file: "ADD_CERTIFICATE_FILE",
+    //   icon: "bi-shield-lock"
+    // }
   ]
 };
